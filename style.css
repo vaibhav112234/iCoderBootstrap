@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   
+}
+.parent{
+    background-color:#23424A;
+    padding:50px;
+  
+}
+.child{
+    background-color: aqua;
+    padding:5em;
+   
+}
